@@ -6,3 +6,5 @@ Cause of limitations of CPU - only SSE3 instructions, El Capitan is maximum leve
 Used Opencore bootloader 0.8.9
 Be sure to make legacy bootable flashdrive with instruction on Dortania web-site - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
 Works well: everything, but internal wi-fi and brightness level keys.
+
+Please, be sure to change SMBIOS section with yours.
