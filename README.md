@@ -6,7 +6,7 @@ Specs: Pentium Dual-Core T4400, Intel GM45 chipset, 2x2Gb DDR2, nVidia Geforce G
 
 Cause of limitations of CPU - only SSE3 instructions supported in Pentium Dual-Core T4400, El Capitan is maximum level of Mac OS available on this hardware.
 
-** Used Opencore bootloader 0.8.9. **
+** Used Opencore bootloader 0.8.9.
 
 Be sure to make legacy bootable flashdrive, because it has only Legacy BIOS, with instruction on Dortania web-site - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
 
