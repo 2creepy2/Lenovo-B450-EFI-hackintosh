@@ -2,7 +2,7 @@
 
 Old Lenovo Laptop B450 works well with Mac OS X El Capitan 10.11.6, dualboot with Windows 10 using GUID partition table (GPT) on harddrive.
 
-Specs: Pentium Dual-Core T4400, Intel GM45 chipset, 2x2Gb DDR2, nVidia Geforce G105M, Atheros AR8132 LAN, Atheros AR5006X WiFi, Conexant Cx20561 ICH9 audio.
+
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
 | Computer model | Lenovo B450 (20029) |
