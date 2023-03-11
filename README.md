@@ -15,7 +15,7 @@ Specs: Pentium Dual-Core T4400, Intel GM45 chipset, 2x2Gb DDR2, nVidia Geforce G
 | Integrated LAN | Atheros AR8132 |
 | Wireless Card | Atheros AR5006X |
 | Trackpad | Synaptics SMBus Touchpad |
-| SD Card Reader | Realtek Cardreader |
+| SD Card Reader | Realtek USB 2.0 Cardreader |
 
 Cause of limitations of CPU - only SSE3 instructions supported in Pentium Dual-Core T4400, El Capitan is maximum level of Mac OS available on this hardware.
 
