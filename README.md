@@ -15,7 +15,7 @@ Old Lenovo Laptop B450 works well with Mac OS X El Capitan 10.11.6, dualboot wit
 | Integrated LAN | Atheros AR8132 |
 | Wireless Card | Atheros AR5006X |
 | Trackpad | Synaptics SMBus Touchpad |
-| SD Card Reader | Realtek USB 2.0 Cardreader |
+| SD Card Reader | Realtek USB 2.0 Cardreader (RTS5159 0x0bda0159) |
 
 Cause of limitations of CPU - only SSE3 instructions supported in Pentium Dual-Core T4400, El Capitan is maximum level of Mac OS available on this hardware.
 
@@ -23,7 +23,7 @@ Cause of limitations of CPU - only SSE3 instructions supported in Pentium Dual-C
 
 Be sure to make legacy bootable flashdrive, because it has only Legacy BIOS, with instruction on Dortania web-site - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
 
-Works well: everything, except of internal wi-fi, brightness level keys, hibernation.
+Works well: everything, except of internal wi-fi, brightness level keys, hibernation, card reader.
 
 **Please, be sure to change SMBIOS section with yours.**
 
