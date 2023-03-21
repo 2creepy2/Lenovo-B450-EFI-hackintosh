@@ -30,4 +30,4 @@ Works well: everything, except of internal wi-fi, brightness level keys, hiberna
 ### To be done in the future: 
 - replace CPU to Core 2 Duo T9400;
 - flash modified BIOS with whitelist unlock;
-- replace internal wifi with BCM94322MC mini PCI-E card. - Done! Look BIOS Update folder for modified BIOS.
+- replace internal wifi with BCM94322MC mini PCI-E card. - Done! Works out of the box. Look BIOS Update folder for modified BIOS.
