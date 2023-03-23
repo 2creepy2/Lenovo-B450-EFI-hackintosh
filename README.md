@@ -23,7 +23,7 @@ Cause of limitations of CPU - only SSE3 instructions supported in Pentium Dual-C
 
 Be sure to make legacy bootable flashdrive, because it has only Legacy BIOS, with instruction on Dortania web-site - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
 
-Works well: everything, except of internal wi-fi, brightness level keys, hibernation.
+Works well: everything, except of: 1) internal wi-fi (can be fixed with replacing the card), 2) brightness level keys, 3) hibernation, 4)second display via VGA.
 
 **Please, be sure to change SMBIOS section with yours.**
 
