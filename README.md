@@ -28,6 +28,6 @@ Works well: everything, except of: 1) internal wi-fi (can be fixed with replacin
 **Please, be sure to change SMBIOS section with yours.**
 
 ### To be done in the future: 
-- replace CPU to Core 2 Duo T9400;
-- flash modified BIOS with whitelist unlock;
+- replace CPU to Core 2 Duo T9400; - Done! Works as it have to work.
+- flash modified BIOS with whitelist unlock; - Done!
 - replace internal wifi with BCM94322MC mini PCI-E card. - Done! Works out of the box. Look BIOS Update folder for modified BIOS.
