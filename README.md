@@ -23,11 +23,11 @@ Cause of limitations of CPU - only SSE3 instructions supported in Pentium Dual-C
 
 Be sure to make legacy bootable flashdrive, because it has only Legacy BIOS, with instruction on Dortania web-site - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
 
-Works well: everything, except of: 1) internal wi-fi (can be fixed with replacing the card), 2) brightness level keys, 3) hibernation, 4)second display via VGA.
+Works well: everything, except of: 1) internal wi-fi (can be fixed with replacing the card), 2) brightness level keys, 3) hibernation, 4) second display via VGA.
 
 **Please, be sure to change SMBIOS section with yours.**
 
 ### To be done in the future: 
-- replace CPU to Core 2 Duo T9400; - Done! Works as it have to work.
+- replace CPU to Core 2 Duo T9400; - Done! Works as it should. (Now it's possible to install Mac OS 10.13.6, but this EFI isn't suitable for this).
 - flash modified BIOS with whitelist unlock; - Done!
 - replace internal wifi with BCM94322MC mini PCI-E card. - Done! Works out of the box. Look BIOS Update folder for modified BIOS.
